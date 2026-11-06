@@ -1,0 +1,28 @@
+body {
+    background-color: #fcf8f2; /* Couleur papier vieilli / parchemin */
+    color: #2c221e;
+    font-family: "Georgia", "Times New Roman", serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    font-weight: normal;
+    border-bottom: 1px dashed #b5a48b;
+    padding-bottom: 8px;
+    color: #4a3525;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.recette-card {
+    background: #fffdf9;
+    border: 1px solid #e3d7c8;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.03);
+}
